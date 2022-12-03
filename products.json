@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,      
+      "description": "Camiseta polo na cor azul, 100% algodão",
+      "image": "./assets/special-cotton-shirt-men.svg"      
+    },
+    {
+      "id": 2,      
+      "description": "Camiseta polo na cor preta, 100% algodão",
+      "image": "./assets/special-cotton-shirt-men.svg"      
+    },
+    {
+      "id": 3,      
+      "description": "Camiseta polo na cor vermelha, 100% algodão",
+      "image": "./assets/special-cotton-shirt-men.svg"      
+    }
+  ]
+}
